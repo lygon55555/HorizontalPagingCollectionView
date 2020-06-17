@@ -13,6 +13,7 @@
 		C73A091F2499E311007DFC16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C73A091D2499E311007DFC16 /* Main.storyboard */; };
 		C73A09212499E314007DFC16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C73A09202499E314007DFC16 /* Assets.xcassets */; };
 		C73A09242499E314007DFC16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C73A09222499E314007DFC16 /* LaunchScreen.storyboard */; };
+		C73A092C2499E45C007DFC16 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73A092B2499E45C007DFC16 /* CustomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C73A09202499E314007DFC16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C73A09232499E314007DFC16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C73A09252499E314007DFC16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C73A092B2499E45C007DFC16 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C73A09172499E311007DFC16 /* AppDelegate.swift */,
 				C73A09192499E311007DFC16 /* SceneDelegate.swift */,
 				C73A091B2499E311007DFC16 /* ViewController.swift */,
+				C73A092B2499E45C007DFC16 /* CustomCollectionViewCell.swift */,
 				C73A091D2499E311007DFC16 /* Main.storyboard */,
 				C73A09202499E314007DFC16 /* Assets.xcassets */,
 				C73A09222499E314007DFC16 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C73A091C2499E311007DFC16 /* ViewController.swift in Sources */,
 				C73A09182499E311007DFC16 /* AppDelegate.swift in Sources */,
 				C73A091A2499E311007DFC16 /* SceneDelegate.swift in Sources */,
+				C73A092C2499E45C007DFC16 /* CustomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
